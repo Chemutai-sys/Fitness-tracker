@@ -85,4 +85,4 @@ Frontend: https://fitness-tracker.vercel.app
 Backend: https://fitness-tracker-api.onrender.com
 
  Pitch Deck
-🖥 Click to view presentation slides https://www.canva.com/design/DAGuLM9zghE/RYs1g7uVYXrwsFgM1X8wfA/edit
+ Click to view presentation slides https://www.canva.com/design/DAGuLM9zghE/RYs1g7uVYXrwsFgM1X8wfA/edit
